@@ -164,7 +164,7 @@ git clone https://github.com/ajayindla/global-streaming-powerbi-dashboard.git
 ## 👨‍💻 Author
 
 **Ajay Indla** | Data Analyst  
-🏢 Valero Energy | University of North Texas — M.S. Advanced Data Analytics  
+🏢 University of North Texas — M.S. Advanced Data Analytics  
 🔧 Python • SQL • Power BI • Databricks • Snowflake • Azure • Alteryx  
 🌐 [GitHub](https://github.com/ajayindla)
 
